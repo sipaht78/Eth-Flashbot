@@ -20,7 +20,7 @@
     "eslint": "^7.15.0"
   },
   "dependencies": {
-    "@flashbots/ethers-provider-bundle": "^0.4.0",
+    "@flashbots/ethers-provider-bundle": "^0.6.1",
     "lodash": "^4.17.20",
     "log-timestamp": "^0.3.0",
     "ts-node": "^9.1.0",
